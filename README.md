@@ -1,4 +1,4 @@
-# 什么值得买每日签到脚本
+# 什么值得买每日签到脚本1
 
 <p>
     <img src="https://img.shields.io/github/license/Chasing66/smzdm_bot">
